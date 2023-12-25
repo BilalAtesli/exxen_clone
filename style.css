@@ -5,6 +5,7 @@
 nav{
 	background-color: #ffcb04;
 }
+
 .ticari{
 	color: #ffcb04 !important;
 }
@@ -30,3 +31,11 @@ nav{
 	}
 	
 }
+@media screen and (max-width:600px) {
+	.containers{
+		width: 100%;
+	
+	}
+	
+}
+
