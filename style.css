@@ -1,0 +1,27 @@
+.containers{
+	width: 69%;
+	margin: auto;
+}
+nav{
+	background-color: #ffcb04;
+}
+.ticari{
+	color: #ffcb04 !important;
+}
+.ticari-md{
+	display: none!important;
+}
+.uyeol{
+	padding: 8px !important;
+}
+@media screen and (max-width:1180px) {
+	.ticari-md{
+
+		display: block !important;
+		color: #ffcb04 !important;
+	}
+	.ticari{
+		display: none !important;
+	}
+	
+}
