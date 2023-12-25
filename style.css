@@ -14,6 +14,11 @@ nav{
 .uyeol{
 	padding: 8px !important;
 }
+.list{
+	text-decoration: none !important;
+	list-style-type: none !important;
+	
+}
 @media screen and (max-width:1180px) {
 	.ticari-md{
 
